@@ -1,0 +1,31 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MyDatabase2
+</name>
+</assembly>
+<members>
+<member name="M:MyDatabase2.info.isCompatibleWith(System.String)">
+	<summary>
+ Questa funzione fa questo e quest'altro
+ </summary>
+	<param name="VersioneCheck">String - Versione con cui verificare la compatibilità</param>
+	<returns>0: Se non Compatibile ; 1: Se compatibile con limitazioni ; 2: Se compatibile (cambia fix) ; 3: Se pienamente compatibile</returns>
+	<remarks>Formato versione Versione.Revisione.Fix</remarks>
+</member><member name="P:MyDatabase2.My.Resources.Resources.ResourceManager">
+	<summary>
+  Restituisce l'istanza di ResourceManager nella cache utilizzata da questa classe.
+</summary>
+</member><member name="P:MyDatabase2.My.Resources.Resources.Culture">
+	<summary>
+  Esegue l'override della proprietà CurrentUICulture del thread corrente per tutte le
+  ricerche di risorse eseguite utilizzando questa classe di risorse fortemente tipizzata.
+</summary>
+</member><member name="T:MyDatabase2.My.Resources.Resources">
+	<summary>
+  Classe di risorse fortemente tipizzata per la ricerca di stringhe localizzate e così via.
+</summary>
+</member>
+</members>
+</doc>

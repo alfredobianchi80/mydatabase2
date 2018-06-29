@@ -1,0 +1,48 @@
+E:\Programmazione\MyDatabase2\MyDatabase2\bin\x86\Debug\MyDatabase2.dll
+E:\Programmazione\MyDatabase2\MyDatabase2\bin\x86\Debug\MyDatabase2.pdb
+E:\Programmazione\MyDatabase2\MyDatabase2\bin\x86\Debug\MyDatabase2.xml
+E:\Programmazione\MyDatabase2\MyDatabase2\obj\x86\Debug\MyDatabase2.Resources.resources
+E:\Programmazione\MyDatabase2\MyDatabase2\obj\x86\Debug\MyDatabase2.vbproj.GenerateResource.Cache
+E:\Programmazione\MyDatabase2\MyDatabase2\obj\x86\Debug\MyDatabase2.dll
+E:\Programmazione\MyDatabase2\MyDatabase2\obj\x86\Debug\MyDatabase2.xml
+E:\Programmazione\MyDatabase2\MyDatabase2\obj\x86\Debug\MyDatabase2.pdb
+E:\Programmazione\VB.NET\MyDatabase2\MyDatabase2\bin\x86\Debug\MyDatabase2.dll
+E:\Programmazione\VB.NET\MyDatabase2\MyDatabase2\bin\x86\Debug\MyDatabase2.pdb
+E:\Programmazione\VB.NET\MyDatabase2\MyDatabase2\bin\x86\Debug\MyDatabase2.xml
+E:\Programmazione\VB.NET\MyDatabase2\MyDatabase2\bin\x86\Debug\myCore.dll
+E:\Programmazione\VB.NET\MyDatabase2\MyDatabase2\bin\x86\Debug\myCore.pdb
+E:\Programmazione\VB.NET\MyDatabase2\MyDatabase2\bin\x86\Debug\myCore.xml
+E:\Programmazione\VB.NET\MyDatabase2\MyDatabase2\obj\x86\Debug\MyDatabase2.vbprojResolveAssemblyReference.cache
+E:\Programmazione\VB.NET\MyDatabase2\MyDatabase2\obj\x86\Debug\MyDatabase2.Resources.resources
+E:\Programmazione\VB.NET\MyDatabase2\MyDatabase2\obj\x86\Debug\MyDatabase2.vbproj.GenerateResource.Cache
+E:\Programmazione\VB.NET\MyDatabase2\MyDatabase2\obj\x86\Debug\MyDatabase2.dll
+E:\Programmazione\VB.NET\MyDatabase2\MyDatabase2\obj\x86\Debug\MyDatabase2.xml
+E:\Programmazione\VB.NET\MyDatabase2\MyDatabase2\obj\x86\Debug\MyDatabase2.pdb
+D:\PROGRAMMAZIONE\WorkInProgress\VB.NET\MyDatabase2\MyDatabase2\bin\x86\Debug\MyDatabase2.dll
+D:\PROGRAMMAZIONE\WorkInProgress\VB.NET\MyDatabase2\MyDatabase2\bin\x86\Debug\MyDatabase2.pdb
+D:\PROGRAMMAZIONE\WorkInProgress\VB.NET\MyDatabase2\MyDatabase2\bin\x86\Debug\MyDatabase2.xml
+D:\PROGRAMMAZIONE\WorkInProgress\VB.NET\MyDatabase2\MyDatabase2\bin\x86\Debug\myCore.dll
+D:\PROGRAMMAZIONE\WorkInProgress\VB.NET\MyDatabase2\MyDatabase2\bin\x86\Debug\myCore.pdb
+D:\PROGRAMMAZIONE\WorkInProgress\VB.NET\MyDatabase2\MyDatabase2\bin\x86\Debug\myCore.xml
+D:\PROGRAMMAZIONE\WorkInProgress\VB.NET\MyDatabase2\MyDatabase2\obj\x86\Debug\MyDatabase2.vbprojResolveAssemblyReference.cache
+D:\PROGRAMMAZIONE\WorkInProgress\VB.NET\MyDatabase2\MyDatabase2\obj\x86\Debug\MyDatabase2.Resources.resources
+D:\PROGRAMMAZIONE\WorkInProgress\VB.NET\MyDatabase2\MyDatabase2\obj\x86\Debug\MyDatabase2.vbproj.GenerateResource.Cache
+D:\PROGRAMMAZIONE\WorkInProgress\VB.NET\MyDatabase2\MyDatabase2\obj\x86\Debug\MyDatabase2.dll
+D:\PROGRAMMAZIONE\WorkInProgress\VB.NET\MyDatabase2\MyDatabase2\obj\x86\Debug\MyDatabase2.xml
+D:\PROGRAMMAZIONE\WorkInProgress\VB.NET\MyDatabase2\MyDatabase2\obj\x86\Debug\MyDatabase2.pdb
+D:\Programmazione\WorkInProgress\VB.NET\Librerie\MyDatabase2\MyDatabase2\bin\x86\Debug\MyDatabase2.dll
+D:\Programmazione\WorkInProgress\VB.NET\Librerie\MyDatabase2\MyDatabase2\bin\x86\Debug\MyDatabase2.pdb
+D:\Programmazione\WorkInProgress\VB.NET\Librerie\MyDatabase2\MyDatabase2\bin\x86\Debug\MyDatabase2.xml
+D:\Programmazione\WorkInProgress\VB.NET\Librerie\MyDatabase2\MyDatabase2\obj\x86\Debug\MyDatabase2.Resources.resources
+D:\Programmazione\WorkInProgress\VB.NET\Librerie\MyDatabase2\MyDatabase2\obj\x86\Debug\MyDatabase2.vbproj.GenerateResource.Cache
+D:\Programmazione\WorkInProgress\VB.NET\Librerie\MyDatabase2\MyDatabase2\obj\x86\Debug\MyDatabase2.dll
+D:\Programmazione\WorkInProgress\VB.NET\Librerie\MyDatabase2\MyDatabase2\obj\x86\Debug\MyDatabase2.xml
+D:\Programmazione\WorkInProgress\VB.NET\Librerie\MyDatabase2\MyDatabase2\obj\x86\Debug\MyDatabase2.pdb
+D:\Programmazione\WorkInProgress\VB.NET\01. Librerie di Base\MyDatabase2\MyDatabase2\obj\x86\Debug\MyDatabase2.pdb
+D:\Programmazione\WorkInProgress\VB.NET\01. Librerie di Base\MyDatabase2\MyDatabase2\bin\x86\Debug\MyDatabase2.dll
+D:\Programmazione\WorkInProgress\VB.NET\01. Librerie di Base\MyDatabase2\MyDatabase2\bin\x86\Debug\MyDatabase2.pdb
+D:\Programmazione\WorkInProgress\VB.NET\01. Librerie di Base\MyDatabase2\MyDatabase2\bin\x86\Debug\MyDatabase2.xml
+D:\Programmazione\WorkInProgress\VB.NET\01. Librerie di Base\MyDatabase2\MyDatabase2\obj\x86\Debug\MyDatabase2.Resources.resources
+D:\Programmazione\WorkInProgress\VB.NET\01. Librerie di Base\MyDatabase2\MyDatabase2\obj\x86\Debug\MyDatabase2.vbproj.GenerateResource.Cache
+D:\Programmazione\WorkInProgress\VB.NET\01. Librerie di Base\MyDatabase2\MyDatabase2\obj\x86\Debug\MyDatabase2.dll
+D:\Programmazione\WorkInProgress\VB.NET\01. Librerie di Base\MyDatabase2\MyDatabase2\obj\x86\Debug\MyDatabase2.xml
